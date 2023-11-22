@@ -1,0 +1,9 @@
+[sv]
+    title = "💧Tavastby vattenandelslag"
+    LanguageName = "Svenska"
+    weight = 1
+
+[fi]
+    title = "💧Tavastbyn vesiosuuskunta"
+    LanguageName = "Suomi"
+    weight = 2

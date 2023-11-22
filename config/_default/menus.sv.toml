@@ -1,0 +1,14 @@
+[[main]]
+    name = "Hem"
+    url = ""
+    weight = -110
+
+[[main]]
+    name = "Provresultat"
+    url = "labs/"
+    weight = -100
+
+[[main]]
+    name = "Kontaktuppgifter"
+    url = "contact/"
+    weight = -90

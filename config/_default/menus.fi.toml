@@ -1,0 +1,14 @@
+[[main]]
+    name = "Alkuun"
+    url = ""
+    weight = -110
+
+[[main]]
+    name = "Koetulokset"
+    url = "labs/"
+    weight = -100
+
+[[main]]
+    name = "Yhteystiedot"
+    url = "contact/"
+    weight = -90

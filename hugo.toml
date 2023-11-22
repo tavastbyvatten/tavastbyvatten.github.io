@@ -1,0 +1,4 @@
+baseURL = 'https://tavastbyvatten.fi'
+languageCode = 'sv'
+title = 'Tavastby vattenandelslag'
+theme = 'hugo-clarity'

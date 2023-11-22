@@ -1,0 +1,72 @@
+[read_more]
+other = "Läs mer"
+
+[copyright]
+other = "Copyright"
+
+[all_rights]
+other = "All Rights Reserved"
+
+[share_on]
+other = "Dela på"
+
+[featured_posts]
+other = "Fokuserade inlägg"
+
+[recent_posts]
+other = "Senaste inlägg"
+
+[404_title]
+other = "Lost"
+
+[could_not_find]
+other = "Vi hittade inte sidan du sökte"
+
+[go_back]
+other = "Tillbaka"
+
+[translations]
+other = "Översättningar"
+
+[categories]
+other = "Kategorier"
+
+[tags]
+other = "Taggar"
+
+[series]
+other = "Serier"
+
+[all_categories]
+other = "Alla kategorier"
+
+[all_tags]
+other = "Alla taggar"
+
+[all_series]
+other = "Alla serier"
+
+[overview]
+other = "Overview"
+
+[reading_time]
+other = "{{ .ReadingTime }} min lästid"
+
+[series_posts]
+other = "Inlägg i denna serien"
+
+# search
+[quick_links]
+  other = "Resultat"
+[no_matches]
+  other = "Inga resultat"
+[search_field_placeholder]
+  other = "Search the knowledge base"
+[blog_search_field_placeholder]
+  other = "sökte..."
+[search_results_label]
+  other = "Sökresultat"
+[short_search_query]
+  other = "Sökfrasen är för kort"
+[type_to_search]
+  other = "Skriv för att söka"

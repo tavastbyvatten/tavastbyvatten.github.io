@@ -1,0 +1,4 @@
+DefaultContentLanguage = "sv"
+
+[outputs]
+home = ["HTML"]
