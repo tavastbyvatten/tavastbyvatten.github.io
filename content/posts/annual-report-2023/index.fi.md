@@ -26,4 +26,4 @@ Jäseniä oli 195 kpl. Vettä käytettiin 13 768 m{{< super "3" >}}, verrattuna 
 - Hans Nyqvist ja Lars-Johan Frondén osallistuivat vesikorttikoulutukseen
 - Vuoden aikana tehtiin tavanomaiset huolto- ja kunnostustyöt. Työt on tehty pääsin talkoovoimin.
 
-[Vuosikertomus](Årsberättlse_2022-2023.pdf)
+[Lataa vuosikertomus tästä](Årsberättelse_2022-2023.pdf)

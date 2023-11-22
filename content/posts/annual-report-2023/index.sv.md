@@ -27,4 +27,4 @@ m{{< super "3" >}} året innan.
 - Hans Nyqvist och Lars-Johan Frondén deltog i en vattenkortsutbildning
 - Under året gjordes sedvanliga reparations- och underhållsarbeten. Arbetet gjordes mestadels på talko.
 
-[Ladda ner hela verksamhetsberättelsen här](Årsberättlse_2022-2023.pdf).
+[Ladda ner hela verksamhetsberättelsen här](Årsberättelse_2022-2023.pdf).
