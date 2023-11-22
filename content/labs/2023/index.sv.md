@@ -2,7 +2,7 @@
 title = 'Provresultat 2023'
 date = 2023-11-15T22:02:23+02:00
 summary = 'Provresultaten från 2023 samlas här'
-draft = true
+draft = false
 +++
 
 Provresultaten från 2023 samlas här.

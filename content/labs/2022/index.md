@@ -2,7 +2,7 @@
 title = 'Provresultat 2022'
 date = 2023-11-15T22:00:30+02:00
 summary = '2022 års vattenprover finns här'
-draft = true
+draft = false
 +++
 
 ## 2022-01-17

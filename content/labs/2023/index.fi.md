@@ -2,7 +2,7 @@
 title = 'Labratulokset 2023'
 date = 2023-11-15T22:02:23+02:00
 summary = 'Vuoden 2023 labratulokset löytyvät tästä'
-draft = true
+draft = false
 +++
 
 Vuoden 2023 labratulokset löytyvät tästä.
