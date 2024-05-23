@@ -15,7 +15,7 @@ Fluorid har såväl positiva som negativa effekter på hälsan, beroende på bl.
 ### Positiva effekter
 
 Fluorid har konstaterats ha positiva effekter på tandhälsan. Det motverkar karies hos både barn och vuxna. Bäst effekt
-fås då dricksvattnet har en fluoridhalt på 0,7-1,2 ml/l.
+fås då dricksvattnet har en fluoridhalt på 0,7-1,2 mg/l.
 
 ### Negativa effekter
 
