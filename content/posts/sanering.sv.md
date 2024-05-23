@@ -6,8 +6,9 @@ summary = 'Brunnarna i Skinnarby saneras 18-20.6.'
 +++
 
 Brunnarna i Skinnarby saneras i sommar, 18-20.6. Under tiden används vatten från Andersby. Vattnet har idag den 23.5.
-testats av miljöskyddet och resultaten kommer att publiceras här på webbsidan. Tidigare har vattnet inte uppfyllit de
-kvalitetskrav som finns för hushållsvatten. Halten av fluorid har just överstigit den tillåtna gränsen på 1,5 mg/l.
+testats av miljöskyddet och resultaten kommer att publiceras här på webbsidan. Tidigare har vattnet inte till alla delar
+uppfyllit de kvalitetskrav som finns för hushållsvatten. Halten av fluorid har just överstigit den tillåtna gränsen på
+1,5 mg/l.
 
 Fluorid har såväl positiva som negativa effekter på hälsan, beroende på bl.a. halten och längden av exponering.
 
