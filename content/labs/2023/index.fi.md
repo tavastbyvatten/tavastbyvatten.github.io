@@ -7,14 +7,18 @@ draft = false
 
 Vuoden 2023 labratulokset löytyvät tästä.
 
-## 2023-01-17
+## 2023-10-24
 
-{{< filelist pattern="2023-01-17**.pdf" >}}
+{{< filelist pattern="2023-10-24**.pdf" >}}
+
+## 2023-07-25
+
+{{< filelist pattern="2023-07-25**.pdf" >}}
 
 ## 2023-04-17
 
 {{< filelist pattern="2023-04-17**.pdf" >}}
 
-## 2023-07-25
+## 2023-01-17
 
-{{< filelist pattern="2023-07-25**.pdf" >}}
+{{< filelist pattern="2023-01-17**.pdf" >}}
