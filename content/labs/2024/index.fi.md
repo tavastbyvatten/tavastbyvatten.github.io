@@ -7,6 +7,10 @@ draft = false
 
 Vuoden 2024 labratulokset löytyvät tästä.
 
+## 2024-05-23
+
+{{< filelist pattern="2024-05-23**.pdf" >}}
+
 ## 2024-03-20
 
 {{< filelist pattern="2024-03-20**.pdf" >}}
