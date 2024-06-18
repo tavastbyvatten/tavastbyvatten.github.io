@@ -5,12 +5,15 @@ draft = false
 summary = 'Skinnarbyn kaivot kunnostetaan 18.-20.6.'
 +++
 
-Skinnarbyssä sijaitsevat kaivot kunnostetaan tänä kesänä 18.-20.6. Tänä aikana käytetään vettä Andersbystä.
-Ympäristönsuojelu on testannut veden tänään 23.5. ja tulokset julkaistaan täällä verkkosivulla. Aiemmin vesi ei ole
-kaikilta osin täyttänyt talousveden laatuvaatimuksia. Fluoridipitoisuus on hieman ylittänyt sallitun rajan, joka on
-1,5 mg/l.
+Skinnarbyn kaivot kunnostetaan tänä kesänä 18.-20.6. Tänä aikana käytetään vettä Andersbystä. Tämä vesi ei ole aiemmin
+kaikilta osin täyttänyt talousveden laatuvaatimukset, sillä fluoridipitoisuus on hieman ylittänyt sallitun rajan, 1,5 mg/l.
+Fluoridilla on sekä positiivisia että negatiivisia vaikutuksia terveyteen, riippuen mm. pitoisuudesta ja altistuksen
+kestosta. Lue lisää fluoridin terveysvaikutuksista alla.
 
-Fluoridilla on sekä positiivisia että negatiivisia vaikutuksia terveyteen, riippuen mm. pitoisuudesta ja altistuksen kestosta.
+Ympäristönsuojelu on testannut Andersbyn vesi 23.5. Tuloksista selviää, että fluoridi on jälleen liian korkea, 2,0 mg/l.
+Tästä ei ole välitöntä vaaraa, mutta osuuskunta on velvollinen viestiä asiasta.
+
+Tulokset löydät [tästä]({{< relref "/labs/2024" >}}).
 
 ### Edulliset terveysvaikutukset
 
