@@ -10,7 +10,7 @@ const imageAltClass = 'img_alt';
 
 
 const defaultSiteLanguage = 'sv';
-const baseURL = 'https://tavastbyvatten.fi';
+const baseURL = 'https://tavastbyvatten.fi/';
 const searchFieldClass = '.search_field';
 const searchClass = '.search';
 const goBackClass = 'button_back';
@@ -899,28 +899,25 @@ function fileClosure(){
     hljs.initHighlightingOnLoad();
   }
 
-  function largeImages(baseParent, images = []) {
-    if(images) {
-      images.forEach(function(image) {
-        window.setTimeout(function(){
-          let actualWidth = image.naturalWidth;
-          let parentWidth = baseParent.offsetWidth;
-          let actionableRatio = actualWidth / parentWidth;
+ function mark_image_as_scalable(baseParent, image) {
+  let actualWidth = image.naturalWidth;
+  let parentWidth = baseParent.offsetWidth;
+  let actionableRatio = actualWidth / parentWidth;
 
-          if (actionableRatio > 1) {
-            pushClass(image.parentNode.parentNode, imageScalableClass);
-            image.parentNode.parentNode.dataset.scale = actionableRatio;
-          }
-        }, 100)
-      });
-    }
+  if (actionableRatio > 1) {
+    pushClass(image.parentNode.parentNode, imageScalableClass);
+    image.parentNode.parentNode.dataset.scale = actionableRatio;
   }
+ }
 
   (function AltImage() {
     let post = elem('.post_content');
-    let images = post ? post.querySelectorAll('img') : false;
+    let images = post ? post.querySelectorAll('img') : [];
     images ? populateAlt(images) : false;
-    largeImages(post, images);
+
+    images.forEach((image) => image.addEventListener('load', (e) => {
+      mark_image_as_scalable(post, image);
+    }));
   })();
 
   doc.addEventListener('click', function(event) {
@@ -988,6 +985,14 @@ function fileClosure(){
   })();
 
   (function navToggle() {
+    elems('.nav_parent').forEach((link) => link.addEventListener('mouseenter', function(event) {
+      event.target.children[0].classList.add('nav_open')
+    }));
+
+    elems('.nav_parent').forEach((link) => link.addEventListener('mouseleave', function(event) {
+      event.target.children[0].classList.remove('nav_open')
+    }));
+
     doc.addEventListener('click', function(event){
       const target = event.target;
       const open = 'jsopen';
